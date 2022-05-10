@@ -1,2 +1,3 @@
 # Python-GUI-Applications
-Simple Tkinter GUIs applications with Python
+This repository is about the Python GUI programming with Tkinter. It contains all are the simple applications that ı make.
+
